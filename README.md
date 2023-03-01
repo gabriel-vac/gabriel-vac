@@ -20,7 +20,7 @@
 </div>
 
 <br/>
-Passionate about software development, Doing my best to get better every day with the best technologies
+Passionate about software development, doing my best to get better every day with the best technologies
 
 <br/>
 
