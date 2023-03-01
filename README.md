@@ -22,5 +22,9 @@
 <br/>
 Passionate about software development, Doing my best to get better every day with the best technologies
 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 - E-mail : gabriel.andrade.guilhen98@gmail.com
